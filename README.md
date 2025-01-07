@@ -13,3 +13,6 @@
 
 #ENTER DESCRIPTION OF TASK PERFORMED NOT LESS THAN 500 WORDS
 
+# OUTPUT OF THE TASK 
+![Neat Bruticus (2)](https://github.com/user-attachments/assets/28a53c2f-6ca4-436a-83a4-2435deec52c2)
+
